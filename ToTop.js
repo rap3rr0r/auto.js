@@ -1,6 +1,6 @@
  var scrolltotop={  
     setting: {startline:100, scrollto: 0, scrollduration:1000, fadeduration:[500, 200]}, 
-    controlHTML: '<img src="URL Gambar Back To Top" />', 
+    controlHTML: '<img src="http://4.bp.blogspot.com/-JbaDT9YqsI8/UQu-cM05oVI/AAAAAAAADb8/wytlgtHS8sU/s1600/Button-Upload-icon.png" />', 
     controlattrs: {offsetx:5, offsety:5}, 
     anchorkeyword: '#top',
     state: {isvisible:false, shouldvisible:false},
