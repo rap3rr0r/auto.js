@@ -16,7 +16,7 @@ pre.prettyprint, code.prettyprint {
 }
  
 pre.prettyprint {
-    white-space: pre-wrap;
+    overflow: auto;
     margin: 1em auto;
     padding: 1em;
 }
